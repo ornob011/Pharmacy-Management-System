@@ -223,6 +223,9 @@ The login page greets the user and asks for their credentials.
   <img src="assets/Picture4.png" alt="Login Page">
 </p>
 
+<p align="center">
+    Login Page </p>
+
 ### **Admin**
 #### **Admin Dashboard**
 Dashboard of admin to access all user and reports.
