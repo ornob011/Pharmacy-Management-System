@@ -533,7 +533,9 @@ Sequences must be followed throughout the software development process in order 
 <p align="justify">
 For the development of the Health First Pharmacy Management System, I employed the Waterfall SDLC technique. I was able to segregate the whole software creation process into various phases thanks to this methodology. This gave me the opportunity to sequentially utilize the results of one step as critical aspects for the subsequent phases. Waterfall SDLC is a repetitive model that resembles a waterfall in that it views a progressively decreasing flow. Several steps might well be performed out with the framework for effectively design a technology platform.
 
-![Waterfall Model](assets/Picture42.png)
+<p align="center">
+  <img src="assets/Picture42.png" alt="Waterfall Model">
+</p>
 <p align="center">
 Waterfall Model </p>
 </p>
