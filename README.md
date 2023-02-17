@@ -218,6 +218,7 @@ Credentials for specific actors have been given below:
 The specified actors can log to the system by using above credentials.
 
 The login page greets the user and asks for their credentials.
+
 <p align="center">
   <img src="assets/Picture4.png" alt="Login Page">
 </p>
