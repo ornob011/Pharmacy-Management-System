@@ -133,11 +133,9 @@ The different actors in this situation are including:
 Each actor's part is intended to simplify how services are provided to patients. The primary beneficiaries of this approach are the patients.
 </p>
 
-<img src="assets/Picture1.png" style="display:block; 
-float:none; 
-margin-left:auto;
-margin-right:auto;
-width:60%;">
+<p align="center">
+  <img src="assets/Picture1.png" alt="Use case diagram">
+</p>
 <p align="center">Use Case Diagram of HFPMS </p>
 
 ### Class Diagram
@@ -171,7 +169,9 @@ A sequence diagram shows the series of actions that take place while an agent us
 In the following figure, the procedure describes how the administrator registers a new user account. By entering their personal information as well as the necessary information, new users enroll on the site. The admin then assigns a special username and password following verifying the user's information. The administrator grants the user appropriate access to the new user after registration process. 
 </p>
 
-![Sequence Diagram](assets/Picture3.png)
+<p align="center">
+  <img src="assets/Picture3.png" alt="Sequence Diagram">
+</p>
     <p align="center">
     Sequence Diagram of New User Registration by Admin </p>
 </p>
