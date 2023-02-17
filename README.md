@@ -206,6 +206,8 @@ The prototype of the HFPMS has been shown in this section. With the login page, 
 
 Credentials for specific actors have been given below:
 
+<div style="text-align:center">
+  
 |   **Actor**   |  **Username**  | **Password** |
 | :-----------: | :------------: | :----------: |
 |     Admin     |     admin      |     1234     |
@@ -214,6 +216,9 @@ Credentials for specific actors have been given below:
 |  Pharmacist   |   pharmacist   |     1234     |
 | Receptionist  | receptionist02 |     1234     |
 | Lab Assistant |     lab001     |     1234     |
+
+</div>
+
 
 The specified actors can log to the system by using above credentials.
 
