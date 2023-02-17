@@ -217,9 +217,10 @@ Credentials for specific actors have been given below:
 
 The specified actors can log to the system by using above credentials.
 
-![Login Page](assets/Picture4.png)
-    <p align="center">
-    Login Page </p>
+The login page greets the user and asks for their credentials.
+<p align="center">
+  <img src="assets/Picture4.png" alt="Login Page">
+</p>
 
 ### **Admin**
 #### **Admin Dashboard**
