@@ -501,7 +501,9 @@ Updating lab assistant’s credentials </p>
 ### **Log Out Page**
 
 The user will log out by clicking on the button given in this page.
-![Log Out Page](assets/Picture41.png)
+<p align="center">
+  <img src="assets/Picture41.png" alt="Log Out Page">
+</p>
 <p align="center">
 Log out page </p>
 
